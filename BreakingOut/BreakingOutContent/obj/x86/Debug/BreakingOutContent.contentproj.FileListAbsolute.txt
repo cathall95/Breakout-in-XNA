@@ -1,0 +1,5 @@
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOutContent\obj\x86\Debug\BreakingOutContent.contentprojResolveAssemblyReference.cache
+J:\BreakingOut\BreakingOut\BreakingOutContent\obj\x86\Debug\BreakingOutContent.contentprojResolveAssemblyReference.cache
+E:\BreakingOut\BreakingOut\BreakingOutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BreakingOut - Copy\BreakingOut\BreakingOutContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOutContent\obj\x86\Debug\BreakingOutContent.contentprojResolveAssemblyReference.cache

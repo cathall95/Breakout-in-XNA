@@ -1,0 +1,44 @@
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\ball.xnb
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\paddle.xnb
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.exe
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.pdb
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.csprojResolveAssemblyReference.cache
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.exe
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.pdb
+c:\users\cathal\documents\visual studio 2010\Projects\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\brick.xnb
+J:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\ball.xnb
+J:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\paddle.xnb
+J:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\brick.xnb
+J:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.exe
+J:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.pdb
+J:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.csprojResolveAssemblyReference.cache
+J:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.exe
+J:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.pdb
+J:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\texts.xnb
+E:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\ball.xnb
+E:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\paddle.xnb
+E:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\brick.xnb
+E:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\Content\texts.xnb
+E:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.exe
+E:\BreakingOut\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.pdb
+E:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.exe
+E:\BreakingOut\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.pdb
+E:\BreakingOut - Copy\BreakingOut\BreakingOut\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BreakingOut - Copy\BreakingOut\BreakingOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\BreakingOut - Copy\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.exe
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\Content\ball.xnb
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\Content\paddle.xnb
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\Content\brick.xnb
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\Content\greenmetal.xnb
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\Content\alienmetal.xnb
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\Content\texts.xnb
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.exe
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\bin\x86\Debug\BreakingOut.pdb
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.csprojResolveAssemblyReference.cache
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.exe
+D:\Curriculim Vitae\Xna Game\BreakingOut\BreakingOut\obj\x86\Debug\BreakingOut.pdb
